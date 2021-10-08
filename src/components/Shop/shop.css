@@ -1,0 +1,17 @@
+.shop-section {
+    width: 80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+  }
+.product-section {
+  border-right: 1px solid #ddd;
+}
+.cart-section{
+    margin-left: 10px;
+    position: relative;
+}
+.cart-section h2,
+h3 {
+  font-weight: 400;
+}

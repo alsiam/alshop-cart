@@ -1,0 +1,31 @@
+h2,p{
+    margin: 5px 0;
+  }
+
+  .shop-card {
+    display: flex;
+    margin: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  .shop-card img {
+    display: block;
+    margin-right: 10px;
+  }
+  .shop-card .details h2 {
+    color: crimson;
+    font-weight: 400;
+  }
+  .btn-regular{
+    background-color: crimson;
+    width: 200px;
+    padding: 7px 0;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    margin: 10px 0;
+    cursor: pointer;
+  }
+  .product-found{
+    width: 80%;
+    margin: auto;
+  }
